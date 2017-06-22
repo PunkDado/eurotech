@@ -1,2 +1,0 @@
-# eurotech
-Site da eurotech
